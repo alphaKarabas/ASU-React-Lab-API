@@ -1,0 +1,5 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb://127.0.0.1/ASU_React",
+  "secretJWTKey": "4cHtqm3yGWftWaRr"
+}
